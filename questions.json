@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "topic": "Networking",
+        "question": "How does DNS work step by step when you open a website?"
+    },
+    {
+        "id": 2,
+        "topic": "Networking",
+        "question": "How can ads be blocked using DNS, and what are the limitations of this approach?"
+    },
+    {
+        "id": 3,
+        "topic": "Networking",
+        "question": "Why do DNS-based ad blockers often fail to block ads inside native mobile apps?"
+    },
+    {
+        "id": 4,
+        "topic": "Networking",
+        "question": "What is the difference between DNS, DHCP, and ARP, and when is each used?"
+    },
+    {
+        "id": 5,
+        "topic": "Networking",
+        "question": "How does a DHCP server assign an IP address to a client?"
+    },
+    {
+        "id": 6,
+        "topic": "Networking",
+        "question": "What happens if two devices on the same network get the same IP address?"
+    },
+    {
+        "id": 7,
+        "topic": "Networking",
+        "question": "What is the difference between a public IP and a private IP?"
+    },
+    {
+        "id": 8,
+        "topic": "Networking",
+        "question": "How does NAT work, and why is it commonly used in home networks?"
+    },
+    {
+        "id": 9,
+        "topic": "Networking",
+        "question": "What is the purpose of a subnet mask, and how does it affect routing?"
+    },
+    {
+        "id": 10,
+        "topic": "Networking",
+        "question": "What happens at the network level when you ping a host?"
+    },
+    {
+        "id": 11,
+        "topic": "Security",
+        "question": "What problem does HTTPS solve, and how does the TLS handshake work at a high level?"
+    },
+    {
+        "id": 12,
+        "topic": "Security",
+        "question": "Why can’t encrypted HTTPS traffic be easily inspected or modified by ad blockers?"
+    },
+    {
+        "id": 13,
+        "topic": "Security",
+        "question": "What is a Man-in-the-Middle attack, and how does TLS prevent it?"
+    },
+    {
+        "id": 14,
+        "topic": "Security",
+        "question": "What is the difference between authentication and authorization?"
+    },
+    {
+        "id": 15,
+        "topic": "Security",
+        "question": "Why is storing passwords in plain text dangerous, even on private servers?"
+    },
+    {
+        "id": 16,
+        "topic": "Security",
+        "question": "What is hashing, and why are salts used with password hashes?"
+    },
+    {
+        "id": 17,
+        "topic": "Security",
+        "question": "Why do VPNs not make you anonymous on the internet?"
+    },
+    {
+        "id": 18,
+        "topic": "Security",
+        "question": "What information can websites still see even when you use a VPN?"
+    },
+    {
+        "id": 19,
+        "topic": "Operating Systems",
+        "question": "What happens in an operating system when you start a program?"
+    },
+    {
+        "id": 20,
+        "topic": "Operating Systems",
+        "question": "What is the difference between a process and a thread?"
+    },
+    {
+        "id": 21,
+        "topic": "Operating Systems",
+        "question": "Why can a program crash without crashing the entire operating system?"
+    },
+    {
+        "id": 22,
+        "topic": "Operating Systems",
+        "question": "What is memory paging, and why do operating systems use it?"
+    },
+    {
+        "id": 23,
+        "topic": "Operating Systems",
+        "question": "What is a system call, and why can’t user programs access hardware directly?"
+    },
+    {
+        "id": 24,
+        "topic": "Programming",
+        "question": "What is the difference between compiled and interpreted languages?"
+    },
+    {
+        "id": 25,
+        "topic": "Programming",
+        "question": "Why does the same code behave differently on different operating systems?"
+    },
+    {
+        "id": 26,
+        "topic": "Programming",
+        "question": "What is undefined behavior, and why is it dangerous?"
+    },
+    {
+        "id": 27,
+        "topic": "Programming",
+        "question": "Why do native mobile apps often ignore system-wide ad blockers?"
+    },
+    {
+        "id": 28,
+        "topic": "Programming",
+        "question": "What is an API, and why are APIs considered contracts?"
+    },
+    {
+        "id": 29,
+        "topic": "Programming",
+        "question": "Why is error handling as important as writing the “happy path” code?"
+    },
+    {
+        "id": 30,
+        "topic": "Programming",
+        "question": "What are the trade-offs between simplicity, performance, and security in software design?"
+    }
+]
